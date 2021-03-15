@@ -203,19 +203,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adm.kirill.baev\\.nuget\\packages\\": {}
+    "C:\\Users\\KirilL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bks\\Grafik_online\\Grafik_online\\RealTimeGraphX\\RealTimeGraphX.csproj",
+      "projectUniqueName": "G:\\ModBusTcpConnectorGraphic\\RealTimeGraphX\\RealTimeGraphX.csproj",
       "projectName": "RealTimeGraphX",
-      "projectPath": "D:\\Bks\\Grafik_online\\Grafik_online\\RealTimeGraphX\\RealTimeGraphX.csproj",
-      "packagesPath": "C:\\Users\\adm.kirill.baev\\.nuget\\packages\\",
-      "outputPath": "D:\\Bks\\Grafik_online\\Grafik_online\\RealTimeGraphX\\obj\\",
+      "projectPath": "G:\\ModBusTcpConnectorGraphic\\RealTimeGraphX\\RealTimeGraphX.csproj",
+      "packagesPath": "C:\\Users\\KirilL\\.nuget\\packages\\",
+      "outputPath": "G:\\ModBusTcpConnectorGraphic\\RealTimeGraphX\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\adm.kirill.baev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KirilL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -227,6 +232,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -238,6 +244,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "EasyModbusTCP": {
             "target": "Package",
@@ -260,7 +267,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },

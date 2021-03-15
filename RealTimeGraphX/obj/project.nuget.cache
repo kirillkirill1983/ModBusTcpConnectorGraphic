@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Q12gKhxCxLQs2X8og1l3Im6EllMKK0vGvQNmFMPjTInrvDwEnT+Xsi+hv5Lfm8hh1XfoBfM4pGpjes8TD2OuqA==",
+  "dgSpecHash": "z8ILyT8lOfyFxgCzSDgmEUdI7ut+4ngocapVEOn5WFz0T9JaGhN/EJaH5Y/2h5Z8qQcKufqc4zeLS972seHlHg==",
   "success": true,
-  "projectFilePath": "D:\\Bks\\Grafik_online\\Grafik_online\\RealTimeGraphX\\RealTimeGraphX.csproj",
+  "projectFilePath": "G:\\ModBusTcpConnectorGraphic\\RealTimeGraphX\\RealTimeGraphX.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\adm.kirill.baev\\.nuget\\packages\\easymodbustcp\\5.6.0\\easymodbustcp.5.6.0.nupkg.sha512",
-    "C:\\Users\\adm.kirill.baev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\adm.kirill.baev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\KirilL\\.nuget\\packages\\easymodbustcp\\5.6.0\\easymodbustcp.5.6.0.nupkg.sha512",
+    "C:\\Users\\KirilL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KirilL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": [
     {

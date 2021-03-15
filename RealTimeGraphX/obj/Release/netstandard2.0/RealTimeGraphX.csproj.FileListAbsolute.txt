@@ -6,3 +6,12 @@ D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\Rea
 D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.csproj.CoreCompileInputs.cache
 D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.dll
 D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.pdb
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\bin\Release\netstandard2.0\RealTimeGraphX.deps.json
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\bin\Release\netstandard2.0\RealTimeGraphX.dll
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\bin\Release\netstandard2.0\RealTimeGraphX.pdb
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.csprojAssemblyReference.cache
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.AssemblyInfoInputs.cache
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.AssemblyInfo.cs
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.csproj.CoreCompileInputs.cache
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.dll
+G:\ModBusTcpConnectorGraphic\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.pdb
