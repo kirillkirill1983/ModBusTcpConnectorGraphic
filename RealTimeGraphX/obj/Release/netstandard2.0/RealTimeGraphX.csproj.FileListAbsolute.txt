@@ -1,0 +1,8 @@
+D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\bin\Release\netstandard2.0\RealTimeGraphX.deps.json
+D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\bin\Release\netstandard2.0\RealTimeGraphX.dll
+D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\bin\Release\netstandard2.0\RealTimeGraphX.pdb
+D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.AssemblyInfoInputs.cache
+D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.AssemblyInfo.cs
+D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.csproj.CoreCompileInputs.cache
+D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.dll
+D:\Bks\Grafik_online\Grafik_online\RealTimeGraphX\obj\Release\netstandard2.0\RealTimeGraphX.pdb

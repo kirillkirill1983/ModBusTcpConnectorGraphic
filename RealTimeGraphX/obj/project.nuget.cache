@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q12gKhxCxLQs2X8og1l3Im6EllMKK0vGvQNmFMPjTInrvDwEnT+Xsi+hv5Lfm8hh1XfoBfM4pGpjes8TD2OuqA==",
+  "success": true,
+  "projectFilePath": "D:\\Bks\\Grafik_online\\Grafik_online\\RealTimeGraphX\\RealTimeGraphX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adm.kirill.baev\\.nuget\\packages\\easymodbustcp\\5.6.0\\easymodbustcp.5.6.0.nupkg.sha512",
+    "C:\\Users\\adm.kirill.baev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\adm.kirill.baev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"EasyModbusTCP 5.6.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETStandard,Version=v2.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "EasyModbusTCP",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
