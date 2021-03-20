@@ -92,7 +92,7 @@ namespace RealTimeGraphX.WPF.Demo
                         // закрываем подключение
                         connection.Close();
                     }
-                    Thread.Sleep(250);
+                    Thread.Sleep(150);
                 }
             });
         }

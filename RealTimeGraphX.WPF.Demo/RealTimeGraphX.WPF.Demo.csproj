@@ -59,6 +59,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="test_DBDataSet.cs">
+      <DependentUpon>test_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="test_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>test_DBDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="WpfGraphControl.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -100,6 +108,17 @@
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="test_DBDataSet.xsc">
+      <DependentUpon>test_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="test_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>test_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="test_DBDataSet.xss">
+      <DependentUpon>test_DBDataSet.xsd</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
